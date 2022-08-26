@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarrashidali001
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in ...Networking/AI/Ui/Ux
 - 🌱 I’m currently learning ...software QA 
 - 💞️ I’m looking to collaborate on ... SW and PWA
