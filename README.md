@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m interested in ...Networking/AI/Ui/Ux
-- 🌱 I’m currently learning ...software QA 
-- 💞️ I’m looking to collaborate on ... SW and PWA
-- 📫 How to reach me ... mohajinnandrez9@gmail.com 
+- 👀 I’m interested in ...Data Science and Analysis 
+- 🌱 I’m currently learning ...Data Science 
+- 💞️ I’m looking to collaborate on ... Data visualisation and Machine Learning 
+- 📫 How to reach me ... omarrashidali001@gmail.com 
 
 <!---
 omarrashidali001/omarrashidali001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
